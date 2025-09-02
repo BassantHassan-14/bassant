@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Welcome to Bassant Hassan's Profile <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30"></h1>
-  <h3>Full-Stack Web Developer</h3>
+  <h3>Front-End Developer</h3>
 </div>
 
 ---
@@ -8,10 +8,10 @@
 ### 🌟 Connect with me:
 <div align="left">
   <a href="https://www.linkedin.com/in/bassant-hassan-044407320?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Basmala%20Said-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+    <img src="https://img.shields.io/badge/LinkedIn-Bassant%20Hassan-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
   <a href="mailto:bassanth1492003@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-basmala30311@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+    <img src="https://img.shields.io/badge/Email-bassanth1492003@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
 </div>
 
